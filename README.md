@@ -19,26 +19,6 @@ This version includes:
 - Documentation
 
 
-PROJECT STRUCTURE
------------------
-
-Part2_SystemsProduct/
-|
-|-- src/
-|   |-- __init__.py
-|   |-- converter.py
-|   |-- logger.py
-|
-|-- tests/
-|   |-- test_converter.py
-|
-|-- main.py
-|-- rates.json
-|-- app.log
-|-- README.txt
-|-- requirements.txt
-
-
 FEATURES
 --------
 
