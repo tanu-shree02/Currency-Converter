@@ -1,0 +1,14 @@
+2026-08-17 12:31:58,282 | INFO | Conversion successful | 1000.00 INR -> 10.50 USD
+2026-08-17 12:34:10,066 | ERROR | Conversion failed | Amount must be greater than 0.
+2026-08-17 12:34:17,325 | ERROR | Conversion failed | Unsupported target currency: XYZ
+2026-08-27 13:08:38,155 | INFO | Conversion successful | 100.00 USD -> 9524.00 INR
+2026-08-27 13:09:19,923 | INFO | Conversion successful | 5000.00 INR -> 52.50 USD
+2026-08-27 13:09:31,338 | INFO | Conversion successful | 100.00 EUR -> 108.70 USD
+2026-08-27 13:10:25,002 | INFO | Conversion successful | 100.00 USD -> 92.00 EUR
+2026-08-27 13:52:47,297 | INFO | Conversion successful | 100.00 USD -> 86.00 EUR
+2026-08-27 13:54:50,494 | INFO | Conversion successful | 50.00 GBP -> 67.57 USD
+2026-08-29 14:24:19,274 | INFO | Conversion successful | 100.00 USD -> 86.00 EUR
+2026-08-29 14:24:47,844 | INFO | Conversion successful | 500.00 USD -> 79660.00 JPY
+2026-08-29 14:25:02,784 | ERROR | Conversion failed | Amount must be greater than 0.
+2026-08-29 14:25:17,746 | ERROR | Invalid amount: please enter a numeric value, e.g. 1000.
+2026-08-29 14:25:29,671 | ERROR | Conversion failed | Unsupported source currency: ABC
